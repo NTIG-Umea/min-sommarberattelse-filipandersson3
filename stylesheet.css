@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(139, 206, 223);
+    display: flex;
+    justify-content: center;
+}
+
+.paper {
+    background-color: aliceblue;
+    padding: 3%;
+    width: 50%;
+    padding-bottom: 3%;
+    padding-top: 3%;
+}
+  
+h1 {
+    color: rgb(39, 39, 39);
+}
+
+h2 {
+    font-size: large;
+}
+
+.inline {
+   display: inline; 
+   line-height: 2rem;
+}
+
+form {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    display: inline;
+}
